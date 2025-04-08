@@ -55,3 +55,6 @@ function generate() {
 clicker.onclick = generate;
 
 generate();
+
+
+main();
